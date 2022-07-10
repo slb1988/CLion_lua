@@ -1,0 +1,6 @@
+/Users/sun/CLionProjects/lua-5.1/cmake-build-debug/CMakeFiles/liblua.dir
+/Users/sun/CLionProjects/lua-5.1/cmake-build-debug/CMakeFiles/libluadll.dir
+/Users/sun/CLionProjects/lua-5.1/cmake-build-debug/CMakeFiles/lua.dir
+/Users/sun/CLionProjects/lua-5.1/cmake-build-debug/CMakeFiles/luac.dir
+/Users/sun/CLionProjects/lua-5.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sun/CLionProjects/lua-5.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

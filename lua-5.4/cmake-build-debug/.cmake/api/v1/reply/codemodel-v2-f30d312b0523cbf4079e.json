@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lua",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "liblua::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-liblua-Debug-32d145684da1b717e9c9.json",
+					"name" : "liblua",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libluadll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libluadll-Debug-9e4ad6711a345de10f15.json",
+					"name" : "libluadll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lua::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lua-Debug-ae76e94a7a6ce7c28a09.json",
+					"name" : "lua",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "luac::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-luac-Debug-7cb4c6d0bd4e3623d70b.json",
+					"name" : "luac",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/sun/CLionProjects/lua-5.4/cmake-build-debug",
+		"source" : "/Users/sun/CLionProjects/lua-5.4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
